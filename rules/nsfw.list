@@ -1,0 +1,15 @@
+# Personal NSFW routing rules
+# Shared by Loon and Mihomo / Clash Party.
+# Keep policy names out of this file; choose the outbound policy in each app.
+
+# SSM
+DOMAIN-SUFFIX,ssm.fun
+
+# AZNUDE and related
+DOMAIN-SUFFIX,azmen.com
+DOMAIN-SUFFIX,aznude.com
+
+# Other NSFW sites
+DOMAIN-SUFFIX,omg.blog
+DOMAIN-SUFFIX,eporner.com
+DOMAIN-SUFFIX,mrman.com
