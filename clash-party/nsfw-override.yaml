@@ -7,12 +7,20 @@ rule-providers:
     path: ./ruleset/personal-nsfw.list
     interval: 86400
 
-+proxy-groups:
+# YAML overrides can only prepend or append array items.
+# This fallback appends the group to the bottom of the proxy-group list.
+proxy-groups+:
   - name: "NSFW 手动切换"
     type: select
-    include-all: true
     proxies:
       - DIRECT
+      - 手动切换
+      - 香港节点
+      - 日本节点
+      - 美国节点
+      - 台湾节点
+      - 狮城节点
+      - 韩国节点
 
 +rules:
   - RULE-SET,personal-nsfw,NSFW 手动切换
