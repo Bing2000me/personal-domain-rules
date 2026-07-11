@@ -1,0 +1,18 @@
+rule-providers:
+  personal-nsfw:
+    type: http
+    behavior: classical
+    format: text
+    url: "https://raw.githubusercontent.com/Bing2000me/personal-domain-rules/main/rules/nsfw.list"
+    path: ./ruleset/personal-nsfw.list
+    interval: 86400
+
++proxy-groups:
+  - name: "NSFW 手动切换"
+    type: select
+    include-all: true
+    proxies:
+      - DIRECT
+
++rules:
+  - RULE-SET,personal-nsfw,NSFW 手动切换
