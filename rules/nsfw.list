@@ -23,7 +23,10 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,reddit.com
+
+# Nexus Mods
 DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,nexus-cdn.com
 
 # Plex
 DOMAIN-SUFFIX,plex.tv
