@@ -18,8 +18,10 @@ DOMAIN-SUFFIX,mrskincdn.com
 DOMAIN-SUFFIX,thisvid.com
 DOMAIN-SUFFIX,good-gay.tv
 
-# Steam Community
+# Community and social platforms
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,x.com
 
 # Plex
 DOMAIN-SUFFIX,plex.tv
