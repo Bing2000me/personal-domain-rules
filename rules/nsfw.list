@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,ssm.fun
 DOMAIN-SUFFIX,azmen.com
 DOMAIN-SUFFIX,aznude.com
 
+# NSFW - LPSG
+DOMAIN-SUFFIX,lpsg.com
+
 # NSFW - Other sites
 DOMAIN-SUFFIX,omg.blog
 DOMAIN-SUFFIX,eporner.com
