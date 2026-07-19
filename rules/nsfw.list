@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,mrskincdn.com
 DOMAIN-SUFFIX,thisvid.com
 DOMAIN-SUFFIX,good-gay.tv
 
+# Steam Community
+DOMAIN-SUFFIX,steamcommunity.com
+
 # Other sites
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,polymarket.us
