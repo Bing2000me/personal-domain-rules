@@ -12,12 +12,15 @@ DOMAIN-SUFFIX,aznude.com
 # NSFW - LPSG
 DOMAIN-SUFFIX,lpsg.com
 
+# NSFW - Content delivery networks
+DOMAIN-SUFFIX,mrskincdn.com
+DOMAIN-SUFFIX,ahcdn.com
+
 # NSFW - Other sites
 DOMAIN-SUFFIX,omg.blog
 DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,mrman.com
 DOMAIN-SUFFIX,gayporntube.com
-DOMAIN-SUFFIX,mrskincdn.com
 DOMAIN-SUFFIX,thisvid.com
 DOMAIN-SUFFIX,good-gay.tv
 DOMAIN-SUFFIX,tt1069.com
