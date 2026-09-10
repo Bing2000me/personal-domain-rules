@@ -46,6 +46,10 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,nexus-cdn.com
 
+# Vimeo
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
+
 # Plex
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plexvideos.com
