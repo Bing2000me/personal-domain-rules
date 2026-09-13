@@ -50,6 +50,9 @@ DOMAIN-SUFFIX,nexus-cdn.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 
+# NYU Digital Video Library
+DOMAIN-SUFFIX,dlib.nyu.edu
+
 # Plex
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plexvideos.com
