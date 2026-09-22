@@ -42,6 +42,9 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,reddit.com
 
+# Shipping platforms
+DOMAIN-SUFFIX,goshippo.com
+
 # Nexus Mods
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,nexus-cdn.com
