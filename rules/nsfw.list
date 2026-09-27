@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,lpsg.com
 # NSFW - Content delivery networks
 DOMAIN-SUFFIX,mrskincdn.com
 DOMAIN-SUFFIX,ahcdn.com
+DOMAIN-SUFFIX,pvvstream.pro
 
 # NSFW - Other sites
 DOMAIN-SUFFIX,omg.blog
